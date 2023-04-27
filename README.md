@@ -1,5 +1,5 @@
 # kafka-producer-go
-Exemplo de API para envio de evento ao Kafka
+Exemplo de API em Golang para envio de eventos ao Kafka
 
 - Pré Requisitos
   - Go 1.19.8
